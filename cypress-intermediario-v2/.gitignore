@@ -1,5 +1,5 @@
 .DS_Store
-cypress.env.json
+# cypress.env.json - pasta com infos sensiveis - como é teste não tem problema subir
 cypress/downloads/
 cypress/screenshots/
 cypress/videos/

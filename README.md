@@ -35,14 +35,17 @@ ___
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
 
-### Observações importantes 
+### Informações e Observações
 
 - Docker - com ele rodando execute o seguinte comando: docker run --publish 80:80 --publish 22:22 --hostname localhost wlsf82/gitlab-ce
 
-### Aulas - Commits
-
 - Repo professor - (https://github.com/wlsf82/cypress-intermediario-v2/tree/main)
-- Access token - g6coa2GAnCa2fjVZSPDy
+- Documentação oficial Cypress (https://docs.cypress.io/)
+- Usr, Senha e Access token - arquivo cypress.env.json 
 
 - 1 - Setup, repositório, readme
-- 2 - Aula 5 - configurando ambiente - senha root (local) - 1 a 8 - chave SSH ja configurada, mas salva no local: c/Users/p_991125/.ssh/id_ed25519
+chave SSH ja configurada, mas salva no local: c/Users/p_991125/.ssh/id_ed25519
+
+### Aulas - Commits
+
+- Aula 6 - setup do projeto 
