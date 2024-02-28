@@ -27,3 +27,4 @@ No terminal de linha de comando, na raiz do projeto, execute o comando `npx cypr
 - Aula 6 - setup do projeto 
 - Aula 8 - testando a funcionalidade de login - exercicio
 - Aula 10 - testando a funcionalidade de logout
+- Sessão 5 - testando a funcionalidade de criação de projeto
