@@ -30,3 +30,5 @@ No terminal de linha de comando, na raiz do projeto, execute o comando `npx cypr
 - Sessão 5 - testando a funcionalidade de criação de projeto
   - Aula 12 - exercicio 1
   - Aula 13 - exercicio 2
+  - Aula 14 - exercicio 3
+  - Aula 15 - exercicio 4
