@@ -32,3 +32,4 @@ No terminal de linha de comando, na raiz do projeto, execute o comando `npx cypr
   - Aula 13 - exercicio 2
   - Aula 14 - exercicio 3
   - Aula 15 - exercicio 4
+- Sessão 6 - testando a funcionalidade de criação de issue
