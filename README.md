@@ -34,4 +34,5 @@ No terminal de linha de comando, na raiz do projeto, execute o comando `npx cypr
   - Aula 15 - exercicio 4
 - Sessão 6 - testando a funcionalidade de criação de issue
 - Sessão 7 - Testes de API
-  - Aula 19 - exercicio 1
+  - Aula 19 - exercicio 1 - Criação de projeto via API
+  - Aula 20 - exercicio 2 - Limpeza de dados
