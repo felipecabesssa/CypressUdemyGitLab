@@ -42,3 +42,4 @@ No terminal de linha de comando, na raiz do projeto, execute o comando `npx cypr
   - Aula 25 - Aula 07 (Git professor) - Testando criação de issue via API
 - Sessão 8 - Aula 08 - Testando a adição de uma etiqueta (label) à uma issue
 - Sessão 9 - Aula 09 - Testando a adição de um marco (milestone) à uma issue
+- Sessão 10 - Aula 10 - Executando comandos a nível de sistema
