@@ -45,3 +45,4 @@ No terminal de linha de comando, na raiz do projeto, execute o comando `npx cypr
 - Sessão 10 - Aula 10 - Executando comandos a nível de sistema
 - Sessão 11 - Aula 11 - Executando todos os testes
   - No terminal de linha de comando, na raiz do projeto, execute o comando npm test para executar todos os testes em modo headless
+- Sessão 12 - Executando os testes em modo interativo
